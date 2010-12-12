@@ -57,12 +57,12 @@ public final class R {
         public static final int icon_whitebg_twitter=0x7f020011;
     }
     public static final class id {
-        public static final int LinearLayout01=0x7f060001;
-        public static final int ScrollView01=0x7f060002;
-        public static final int bio=0x7f060003;
-        public static final int button_home=0x7f060004;
-        public static final int fade_animation=0x7f060000;
-        public static final int webview=0x7f060005;
+        public static final int LinearLayout01=0x7f070003;
+        public static final int ScrollView01=0x7f070001;
+        public static final int bio=0x7f070004;
+        public static final int button_home=0x7f070005;
+        public static final int fade_animation=0x7f070000;
+        public static final int txtData=0x7f070002;
     }
     public static final class layout {
         public static final int activity_animation=0x7f030000;
@@ -71,14 +71,18 @@ public final class R {
         public static final int main=0x7f030003;
         public static final int twitter=0x7f030004;
     }
+    public static final class raw {
+        public static final int jsontwitter=0x7f050000;
+        public static final int xmltwitter=0x7f050001;
+    }
     public static final class string {
-        public static final int activity_animation=0x7f050003;
-        public static final int activity_animation_fade=0x7f050005;
-        public static final int activity_animation_msg=0x7f050004;
-        public static final int activity_animation_zoom=0x7f050006;
-        public static final int app_name=0x7f050001;
-        public static final int bio=0x7f050007;
-        public static final int hello=0x7f050000;
-        public static final int info=0x7f050002;
+        public static final int activity_animation=0x7f060003;
+        public static final int activity_animation_fade=0x7f060005;
+        public static final int activity_animation_msg=0x7f060004;
+        public static final int activity_animation_zoom=0x7f060006;
+        public static final int app_name=0x7f060001;
+        public static final int bio=0x7f060007;
+        public static final int hello=0x7f060000;
+        public static final int info=0x7f060002;
     }
 }
